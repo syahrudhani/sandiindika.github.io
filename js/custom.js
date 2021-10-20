@@ -110,23 +110,23 @@ $(document).ready(function () {
         animatedOut:'zoomOut'
     });
 
-    $("#demo02").animatedModal({
-        modalTarget:'modal-02',
-        animatedIn:'zoomIn',
-        animatedOut:'zoomOut'
-    });
+    // $("#demo02").animatedModal({
+        // modalTarget:'modal-02',
+        // animatedIn:'zoomIn',
+        // animatedOut:'zoomOut'
+    // });
 
-    $("#demo03").animatedModal({
-        modalTarget:'modal-03',
-        animatedIn:'zoomIn',
-        animatedOut:'zoomOut'
-    });
+    // $("#demo03").animatedModal({
+        // modalTarget:'modal-03',
+        // animatedIn:'zoomIn',
+        // animatedOut:'zoomOut'
+    // });
 
-    $("#demo04").animatedModal({
-        modalTarget:'modal-04',
-        animatedIn:'zoomIn',
-        animatedOut:'zoomOut'
-    });
+    // $("#demo04").animatedModal({
+        // modalTarget:'modal-04',
+        // animatedIn:'zoomIn',
+        // animatedOut:'zoomOut'
+    // });
 
     $("#demo05").animatedModal({
         modalTarget:'modal-05',
