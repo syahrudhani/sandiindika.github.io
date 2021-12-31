@@ -618,6 +618,10 @@ a.active {
     right: 14px;
 }
 
+.modal-01-on .close-popup-modal {
+    opacity: 1;
+}
+
 .modal-02-on .close-popup-modal {
     opacity: 1;
 }
