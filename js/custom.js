@@ -114,6 +114,12 @@ $(document).ready(function () {
         animatedIn:'zoomIn',
         animatedOut:'zoomOut'
     });
+    
+    $("#demo03").animatedModal({
+        modalTarget:'modal-03',
+        animatedIn:'zoomIn',
+        animatedOut:'zoomOut'
+    });
 
     $("#demo06").animatedModal({
         modalTarget:'modal-06',
