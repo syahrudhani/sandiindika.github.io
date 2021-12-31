@@ -103,6 +103,12 @@ $(document).ready(function () {
 
     });
 
+    $("#demo01").animatedModal({
+        modalTarget:'modal-01',
+        animatedIn:'zoomIn',
+        animatedOut:'zoomOut'
+    });
+    
     $("#demo02").animatedModal({
         modalTarget:'modal-02',
         animatedIn:'zoomIn',
